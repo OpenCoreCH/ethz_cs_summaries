@@ -1,4 +1,4 @@
-# ethz_cs_summaries
+# ETH Zürich Computer Science BsC / Data Science MsC Summaries
 Summaries / Cheat Sheets created during BsC in Computer Science at ETH Zurich (2017 - 2020, semester 1 - 6) and MsC in Data Science (2020 - now).
 
 I take no responsibility for correctness of the documents.
@@ -26,5 +26,6 @@ I take no responsibility for correctness of the documents.
 * [High Performance Computing for Science and Engineering 2 (handwritten cheat sheet)](sem6/High%20Performance%20Computing%20for%20Science%20and%20Engineering%202/Cheat%20Sheet%20HPCSE2.pdf)
 * [Information Theory (typed summary)](sem6/Informationstheorie/Zusammenfassung%20Informationstheorie.pdf)
 * [Rigorous Software Engineering (typed summary)](sem6/Rigorous%20Software%20Engineering/Abstract%20Rigorous%20Software%20Engineering.pdf)
+* [Intellectual Property: An Introduction (typed summary)](sem6/Intellectual Property, An Introduction/Abstract_Intellectual_Property.pdf)
 
 Where "cheat sheet" denotes documents that we were allowed to bring to the final exam.
