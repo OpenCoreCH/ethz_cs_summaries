@@ -27,5 +27,9 @@ I take no responsibility for correctness of the documents.
 * [Information Theory (typed summary)](sem6/Informationstheorie/Zusammenfassung%20Informationstheorie.pdf)
 * [Rigorous Software Engineering (typed summary)](sem6/Rigorous%20Software%20Engineering/Abstract%20Rigorous%20Software%20Engineering.pdf)
 * [Intellectual Property: An Introduction (typed summary)](sem6/Intellectual%20Property%2C%20An%20Introduction/Abstract_Intellectual_Property.pdf)
+* [Advanced Machine Learning (typed cheat sheet)](sem7/Advanced%20Machine%20Learning/Abstract_Advanced_Machine_Learning.pdf)
+* [Big Data (typed summary)](sem7/Big%20Data/Abstract_Big_Data.pdf)
+* [Data Management Systems (typed summary)](sem7/Data%20Management%20Systems/Abstract_Data_Management_Systems.pdf)
+* [Fundamentals of Mathematical Statistics (typed summary)](sem7/Fundamentals%20of%20Mathematical%20Statistics/Summary_Fundamentals_of_Mathematical_Statistics.pdf)
 
 Where "cheat sheet" denotes documents that we were allowed to bring to the final exam.
