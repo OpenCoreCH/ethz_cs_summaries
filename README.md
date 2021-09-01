@@ -32,5 +32,6 @@ I take no responsibility for correctness of the documents.
 * [Data Management Systems (typed summary)](sem7/Data%20Management%20Systems/Abstract_Data_Management_Systems.pdf)
 * [Fundamentals of Mathematical Statistics (typed summary)](sem7/Fundamentals%20of%20Mathematical%20Statistics/Summary_Fundamentals_of_Mathematical_Statistics.pdf)
 * [Cloud Computing Architecture (typed summary)](sem8/Cloud%20Computing%20Architecture/Abstract_Cloud_Computing_Architecture.pdf)
+* [Computational Statistics (typed cheat sheet)](sem8/Computational%20Statistics/Cheatsheet_Computational_Statistics.pdf)
 
 Where "cheat sheet" denotes documents that we were allowed to bring to the final exam.
