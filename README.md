@@ -1,9 +1,9 @@
-# ETH Zürich Computer Science BsC / Data Science MsC Summaries
-Summaries / Cheat Sheets created during BsC in Computer Science at ETH Zurich (2017 - 2020, semester 1 - 6) and MsC in Data Science (2020 - now).
+# ETH Zürich Computer Science BsC / Data Science MsC Documents
+Summaries / Cheat Sheets created during BsC in Computer Science at ETH Zurich (2017 - 2020, semester 1 - 6) and MsC in Data Science (2020 - 2021, semester 7 - 9).
 
-I take no responsibility for correctness of the documents.
+If you have any questions or comments, feel free to reach out at contact@opencore.ch. And if you are browsing this repository because you are preparing for an exam: Good luck!
 
-## Table of Contents
+## Summaries & Cheat Sheets
 * [Algorithms and Data Structures (typed summary)](sem1/Algorithms%20and%20data%20structures/Zusammenfassung_A_D.pdf)
 * [Discrete Mathematics (handwritten cheat sheet)](sem1/Discrete%20Mathematics/Cheat%20Sheet%20DiscMath.pdf)
 * [Linear Algebra (handwritten cheat sheet)](sem1/Linear%20Algebra/Cheat%20Sheet%20LinAlg.pdf)
@@ -35,3 +35,12 @@ I take no responsibility for correctness of the documents.
 * [Computational Statistics (typed cheat sheet)](sem8/Computational%20Statistics/Cheatsheet_Computational_Statistics.pdf)
 
 Where "cheat sheet" denotes documents that we were allowed to bring to the final exam.
+
+## Other Documents
+
+* [BSc Thesis & Presentation](https://github.com/OpenCoreCH/Clairvoyant-Prefetching-for-Machine-Learning-IO)
+* [MSc Thesis](https://www.research-collection.ethz.ch/handle/20.500.11850/532425)
+* [MSc Thesis Presentation](sem9/Master%20Thesis%20Presentation/fmi_presentation.pdf)
+* [Summary about a talk by Patrick Schwab for the Causal Representation Learning Seminar](sem7/Causal%20Representation%20Learning/CRL_Summary_Patrick_Schwab.pdf)
+* [Response Essays for "Sequencing Legal DNA, NLP for Law and Political Economy"](sem8/Legal%20DNA/)
+* [Response Essays for "Building a Robot Judge: Data Science for Decision-Making"](sem9/Building%20a%20Robot%20Judge/)
